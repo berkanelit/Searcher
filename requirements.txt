@@ -1,0 +1,4 @@
+tensorflow==2.13.0  # TensorFlow'ün belirli bir sürümü
+transformers==4.33.2  # Özetleme için kullanılan transformers
+requests==2.31.0  # Web istekleri için requests
+beautifulsoup4==4.12.2  # HTML parse işlemi için BeautifulSoup
